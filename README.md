@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**kiyotsu/kiyotsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Language 
+- Clang ✨💪
+- C++ 💡
+- C# 🐥
+- Python 💡
 
-Here are some ideas to get you started:
+### 🏆 Certification
+- Applied Information Technology Engineer Examination (応用情報技術者試験)
+- Fundamental Information Technology Engineer Examination (基本情報技術者試験)
+- Information Security Management Examination (情報セキュリティマネジメント試験)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁ AWS Certification
+
+#### Foundational
+- AWS Certified Cloud Practitioner
+
+#### Associate
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
+- AWS Certified SysOps Administrator - Associate
+
+#### Professional
+- AWS Certified Solutions Architect - Professional
+
+#### Specialty
+- AWS Certified Security - Specialty
+- AWS Certified Advanced Networking - Specialty
+
+### 💻 Products
+todo... 
