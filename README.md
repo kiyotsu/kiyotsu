@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### ⚙️ Language 
-- Clang ✨💪
+- C ✨💪
 - C++ 💡
 - C# 🐥
 - Python 💡
